@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: localhost:3306
--- Generation Time: Dec 12, 2014 at 02:39 AM
+-- Generation Time: Dec 12, 2014 at 03:03 AM
 -- Server version: 5.5.38
 -- PHP Version: 5.5.17
 
@@ -185,7 +185,7 @@ INSERT INTO `wp_options` (`option_id`, `option_name`, `option_value`, `autoload`
 (77, 'comment_order', 'asc', 'yes'),
 (78, 'sticky_posts', 'a:0:{}', 'yes'),
 (79, 'widget_categories', 'a:2:{s:12:"_multiwidget";i:1;i:1;a:0:{}}', 'yes'),
-(80, 'widget_text', 'a:6:{i:1;a:0:{}i:2;a:3:{s:5:"title";s:12:"Contact Info";s:4:"text";s:56:"601 East Verona Avenue\r\nVerona, WI 53593\r\n(608) 848-4770";s:6:"filter";b:1;}i:3;a:3:{s:5:"title";s:0:"";s:4:"text";s:204:"<a href="http://www.littleleague.org/Little_League_Online.htm"><img src="http://laethanlin.local:5757/AdvancedPHP/veronalittleleague/wp-content/uploads/2014/12/logo_homepage.png" alt="Little League"/></a>";s:6:"filter";b:0;}i:4;a:3:{s:5:"title";s:0:"";s:4:"text";s:98:"<a class="btn" href="/AdvancedPHP/veronalittleleague/registration//registration/">Register Now</a>";s:6:"filter";b:0;}i:5;a:3:{s:5:"title";s:0:"";s:4:"text";s:136:"<img src="http://laethanlin.local:5757/AdvancedPHP/veronalittleleague/wp-content/uploads/2014/12/134148_118288348239953_564366_o.jpg" />";s:6:"filter";b:0;}s:12:"_multiwidget";i:1;}', 'yes'),
+(80, 'widget_text', 'a:6:{i:1;a:0:{}i:2;a:3:{s:5:"title";s:12:"Contact Info";s:4:"text";s:56:"601 East Verona Avenue\r\nVerona, WI 53593\r\n(608) 848-4770";s:6:"filter";b:1;}i:3;a:3:{s:5:"title";s:0:"";s:4:"text";s:176:"<a href="http://www.littleleague.org/Little_League_Online.htm"><img src="/AdvancedPHP/veronalittleleague/wp-content/uploads/2014/12/logo_homepage.png" alt="Little League"/></a>";s:6:"filter";b:0;}i:4;a:3:{s:5:"title";s:0:"";s:4:"text";s:83:"<a class="btn" href="/AdvancedPHP/veronalittleleague/registration">Register Now</a>";s:6:"filter";b:0;}i:5;a:3:{s:5:"title";s:0:"";s:4:"text";s:108:"<img src="/AdvancedPHP/veronalittleleague/wp-content/uploads/2014/12/134148_118288348239953_564366_o.jpg" />";s:6:"filter";b:0;}s:12:"_multiwidget";i:1;}', 'yes'),
 (81, 'widget_rss', 'a:2:{i:1;a:0:{}s:12:"_multiwidget";i:1;}', 'yes'),
 (82, 'uninstall_plugins', 'a:3:{s:39:"simple-custom-css/simple-custom-css.php";s:15:"sccss_uninstall";s:53:"add-widget-after-content/add-widget-after-content.php";a:2:{i:0;s:21:"AddWidgetAfterContent";i:1;s:9:"uninstall";}s:29:"pie-register/pie-register.php";a:2:{i:0;s:11:"PieRegister";i:1;s:26:"piereg_remove_all_settings";}}', 'no'),
 (83, 'timezone_string', 'America/Chicago', 'yes'),
@@ -203,7 +203,7 @@ INSERT INTO `wp_options` (`option_id`, `option_name`, `option_value`, `autoload`
 (95, 'sidebars_widgets', 'a:17:{s:19:"wp_inactive_widgets";a:0:{}s:9:"blogright";a:0:{}s:9:"pageright";a:2:{i:0;s:22:"awesomeweatherwidget-2";i:1;s:38:"widget-easy-twitter-feed-widget-kamn-2";}s:8:"pageleft";a:0:{}s:11:"banner-wide";a:1:{i:0;s:6:"text-5";}s:12:"banner-short";a:0:{}s:4:"top1";a:0:{}s:4:"top2";a:0:{}s:4:"top3";a:0:{}s:4:"top4";a:0:{}s:7:"bottom1";a:0:{}s:7:"bottom2";a:1:{i:0;s:6:"text-3";}s:7:"bottom3";a:1:{i:0;s:6:"text-2";}s:7:"bottom4";a:1:{i:0;s:14:"login_logout-2";}s:3:"cta";a:1:{i:0;s:6:"text-4";}s:22:"widgets_for_shortcodes";a:1:{i:0;s:14:"sticky-posts-2";}s:13:"array_version";i:3;}', 'yes'),
 (96, 'cron', 'a:5:{i:1418369340;a:1:{s:20:"wp_maybe_auto_update";a:1:{s:32:"40cd750bba9870f18aada2478b24840a";a:3:{s:8:"schedule";s:10:"twicedaily";s:4:"args";a:0:{}s:8:"interval";i:43200;}}}i:1418385485;a:3:{s:16:"wp_version_check";a:1:{s:32:"40cd750bba9870f18aada2478b24840a";a:3:{s:8:"schedule";s:10:"twicedaily";s:4:"args";a:0:{}s:8:"interval";i:43200;}}s:17:"wp_update_plugins";a:1:{s:32:"40cd750bba9870f18aada2478b24840a";a:3:{s:8:"schedule";s:10:"twicedaily";s:4:"args";a:0:{}s:8:"interval";i:43200;}}s:16:"wp_update_themes";a:1:{s:32:"40cd750bba9870f18aada2478b24840a";a:3:{s:8:"schedule";s:10:"twicedaily";s:4:"args";a:0:{}s:8:"interval";i:43200;}}}i:1418428709;a:1:{s:19:"wp_scheduled_delete";a:1:{s:32:"40cd750bba9870f18aada2478b24840a";a:3:{s:8:"schedule";s:5:"daily";s:4:"args";a:0:{}s:8:"interval";i:86400;}}}i:1418429694;a:1:{s:30:"wp_scheduled_auto_draft_delete";a:1:{s:32:"40cd750bba9870f18aada2478b24840a";a:3:{s:8:"schedule";s:5:"daily";s:4:"args";a:0:{}s:8:"interval";i:86400;}}}s:7:"version";i:2;}', 'yes'),
 (98, '_site_transient_update_core', 'O:8:"stdClass":4:{s:7:"updates";a:1:{i:0;O:8:"stdClass":10:{s:8:"response";s:6:"latest";s:8:"download";s:59:"https://downloads.wordpress.org/release/wordpress-4.0.1.zip";s:6:"locale";s:5:"en_US";s:8:"packages";O:8:"stdClass":5:{s:4:"full";s:59:"https://downloads.wordpress.org/release/wordpress-4.0.1.zip";s:10:"no_content";s:70:"https://downloads.wordpress.org/release/wordpress-4.0.1-no-content.zip";s:11:"new_bundled";s:71:"https://downloads.wordpress.org/release/wordpress-4.0.1-new-bundled.zip";s:7:"partial";b:0;s:8:"rollback";b:0;}s:7:"current";s:5:"4.0.1";s:7:"version";s:5:"4.0.1";s:11:"php_version";s:5:"5.2.4";s:13:"mysql_version";s:3:"5.0";s:11:"new_bundled";s:3:"3.8";s:15:"partial_version";s:0:"";}}s:12:"last_checked";i:1418342317;s:15:"version_checked";s:5:"4.0.1";s:12:"translations";a:0:{}}', 'yes'),
-(99, '_transient_random_seed', '5200ea72ca9fc1396268623d821785da', 'yes'),
+(99, '_transient_random_seed', '2053407ac3e879d7a5748e9bb30d193d', 'yes'),
 (107, 'can_compress_scripts', '1', 'yes'),
 (108, '_transient_timeout_feed_ac0b00fe65abe10e0c5b588f3ed8c7ca', '1417780702', 'no');
 INSERT INTO `wp_options` (`option_id`, `option_name`, `option_value`, `autoload`) VALUES
@@ -1426,7 +1426,7 @@ INSERT INTO `wp_usermeta` (`umeta_id`, `user_id`, `meta_key`, `meta_value`) VALU
 (86, 1, 'active', '1'),
 (87, 3, 'active', '1'),
 (88, 2, 'active', '1'),
-(89, 1, 'session_tokens', 'a:5:{s:64:"87322eaeeb4a8335a98e97bb6cd8d33cf16935ffc0a28bcb04d7b0936460f0b4";i:1418515616;s:64:"e9278c3f4d4b5ce41636dbf0157d08dd07d23e80192961c2d35d065511700a5d";i:1418517653;s:64:"745888eddbd55c463fd0ca4455e5a4b9ec6815769d5f42b5fb94881b73687720";i:1418518125;s:64:"bbce9b86e86b2d883e6f7aaa79fcc1902ee1610d416c289017694428d7234a70";i:1418518125;s:64:"e49992efe92c80ee54c409c570106d7ae7155fa90e6cc8792cf11c3c0aef2610";i:1418519226;}');
+(89, 1, 'session_tokens', 'a:6:{s:64:"87322eaeeb4a8335a98e97bb6cd8d33cf16935ffc0a28bcb04d7b0936460f0b4";i:1418515616;s:64:"e9278c3f4d4b5ce41636dbf0157d08dd07d23e80192961c2d35d065511700a5d";i:1418517653;s:64:"745888eddbd55c463fd0ca4455e5a4b9ec6815769d5f42b5fb94881b73687720";i:1418518125;s:64:"bbce9b86e86b2d883e6f7aaa79fcc1902ee1610d416c289017694428d7234a70";i:1418518125;s:64:"e49992efe92c80ee54c409c570106d7ae7155fa90e6cc8792cf11c3c0aef2610";i:1418519226;s:64:"0414e7feda32970a12c363357d28fc5920b5663c014b5a5fc55442e4a189665e";i:1418521754;}');
 
 -- --------------------------------------------------------
 
